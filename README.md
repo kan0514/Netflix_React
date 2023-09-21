@@ -25,21 +25,6 @@
 
 <br>
 
-# Preview
-
-<p align="center">
-  <img src="img/image3.PNG"
-     alt="Netflix Landing Page" >
-</p>
-
-<p align="center">
-  <img src="img/image1.PNG"
-     alt="Netflix Home Page" >
-</p>
-<p align="center">
-  <img src="img/image2.PNG"
-     alt="Netflix Movies slider" >
-</p>
 
 
 # Technology Used
