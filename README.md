@@ -63,6 +63,6 @@ The project can be used along side with the server side or without it untill the
 Kanishk Sugandhi
 
 - Github: https://github.com/kan0514
-- Linkedin: https://www.linkedin.com/in/kanishk-sugandhi
+- Linkedin: https://www.linkedin.com/in/kanishksugandhi
 - Email: kanishk0514@gmail.com
 
